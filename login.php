@@ -24,7 +24,7 @@ if(isset($_POST['email'])&&isset($_POST['password'])&&isset($_POST['login']))
 <html lang="en">
 <head>
 <title>Login</title>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="login.css">
 </head>
 <body>
 
